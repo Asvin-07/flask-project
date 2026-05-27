@@ -1,10 +1,10 @@
-🚀 Flask REST API with Docker
+Flask REST API with Docker
 
 A containerized RESTful API built with Python and Flask. This project demonstrates backend development fundamentals including API design, containerization, and dynamic configuration.
 
 Live Demo: [(https://flask-project-tzzq.onrender.com/)]
 
-✨ Features
+Features
 
 REST Architecture: Clean GET, POST, and DELETE endpoints.
 
@@ -12,7 +12,7 @@ Dockerized: Fully portable container setup.
 
 Configurable: Supports configuration via CLI flags and Environment variables.
 
-🛠️ Tech Stack
+Tech Stack
 
 Python 3.11
 
@@ -22,7 +22,7 @@ Docker
 
 Git
 
-🚀 How to Run Locally
+How to Run Locally
 
 Clone the repo
 
@@ -39,7 +39,7 @@ Run the Container
 docker run -p 5000:5000 -e PORT=5000 flask-app
 
 
-🔌 Endpoints
+Endpoints
 
 GET /: Health check.
 
